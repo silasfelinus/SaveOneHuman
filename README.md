@@ -20,15 +20,14 @@ Most people drastically underestimate how much money it takes to save one human.
 
 
 ## PAGE PROJECTS
-* Home Page
-* About Page
-* Receive Donations
-* Ethics/Values
-* Links
-* Contact
-* Stretch Goals
-* SEO Optimization
-* List of donators
+* Home Page (index.html)
+* About Page (about.html)
+* Receive Donations (donate.html)
+* Ethics/Values (values.html)
+* Links (links.html)
+* Contact (contact.html)
+* Stretch Goals (stretch.html)
+* List of donors (thanks.html)
 
 
 ## FUNCTION PROJECTS
@@ -44,7 +43,8 @@ Most people drastically underestimate how much money it takes to save one human.
 * Setup Twitter Account
 * Setup Facebook Page
 * Register as Non-Profit
-* Logo and branding
+* Logo and Branding
+* Research SEO Optimization
 
 
 
