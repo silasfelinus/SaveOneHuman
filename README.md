@@ -1,4 +1,4 @@
-# SaveOneLife
+# SaveOneHuman
 Website for www.SaveOneHuman.org
 
 Created by Silas Knight
