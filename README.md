@@ -7,7 +7,7 @@ silasfelinus@gmail.com
 
 Languages: HTML/CSS/Javascript
 
-Project Synopsis:
+## Project Synopsis:
 
 What does it take to save one human life?
 
@@ -15,9 +15,9 @@ Save One Human is a web campaign with a simply premise: to efficiently raise eno
 
 Most people drastically underestimate how much money it takes to save one human. (https://80000hours.org/2017/05/most-people-report-believing-its-incredibly-cheap-to-save-lives-in-the-developing-world/). Save One Human attempts to cut through the red tape and enable one specific action to help one stranger on this earth.
 
-Problem Domain: non-profit charities and the receipt or transfer of money. As SOH has principles of "EASY" and "EFFICIENT", the initial design will link to a third-party donation site. The eventual goal will be to accept donations on the site itself.
+**Problem Domain** nNon-profit charities and the receipt or transfer of money. As SOH has principles of "EASY" and "EFFICIENT", the initial design will link to a third-party donation site. The eventual goal will be to accept donations on the site itself.
 
-Current Version: 1.0.0 7/18/2020
+**Current Version** 1.0.0 7/18/2020
 Basic infrastructure progress: file folders, README, .gitignore, .eslintrc.json
 Exterior Progress: Registered SaveOneHuman.org on GoDaddy. ($10.17 for first year)
 
