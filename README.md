@@ -22,30 +22,30 @@ Basic infrastructure progress: file folders, README, .gitignore, .eslintrc.json
 Exterior Progress: Registered SaveOneHuman.org on GoDaddy. ($10.17 for first year)
 
 
-# GOALS:
-
-## PAGES
-Home Page
-About Page
-Receive Donations
-Ethics/Values
-Links
-Contact
-Stretch Goals
-SEO Optimization
-List of donators
+## PAGE PROJECTS
+* Home Page
+* About Page
+* Receive Donations
+* Ethics/Values
+* Links
+* Contact
+* Stretch Goals
+* SEO Optimization
+* List of donators
 
 
-## FUNCTIONS
-Receive donations
-Submit email
-User Shares page with friends
-Accept Cryptocurrency
-Scrolling list of donations/donators
+## FUNCTION PROJECTS
+* Receive donations
+* Submit email
+* Submit Facebook info
+* Login
+* User shares page with friends
+* Accept Cryptocurrency
+* Scrolling list of donations/donators
 
-## EXTERIOR (NON-GIT) PROJECTS
-Setup Twitter Account
-Setup Facebook Page
-Register as Non-Profit
-Logo and branding
+## NON-GIT PROJECTS
+* Setup Twitter Account
+* Setup Facebook Page
+* Register as Non-Profit
+* Logo and branding
 
