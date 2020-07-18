@@ -1,4 +1,5 @@
-#SaveOneHuman
+# SaveOneHuman
+
 Website for www.SaveOneHuman.org
 
 Created by Silas Knight
@@ -21,9 +22,9 @@ Basic infrastructure progress: file folders, README, .gitignore, .eslintrc.json
 Exterior Progress: Registered SaveOneHuman.org on GoDaddy. ($10.17 for first year)
 
 
-#GOALS:
+# GOALS:
 
-PAGES
+## PAGES
 Home Page
 About Page
 Receive Donations
@@ -35,14 +36,14 @@ SEO Optimization
 List of donators
 
 
-FUNCTIONS
+## FUNCTIONS
 Receive donations
 Submit email
 User Shares page with friends
 Accept Cryptocurrency
 Scrolling list of donations/donators
 
-EXTERIOR (NON-GIT) PROJECTS
+## EXTERIOR (NON-GIT) PROJECTS
 Setup Twitter Account
 Setup Facebook Page
 Register as Non-Profit
