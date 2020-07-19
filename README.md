@@ -50,7 +50,8 @@ Most people drastically underestimate how much money it takes to save one human.
 
 ## NON-PROFIT REGISTRATION STEPS*
     *from https://calnonprofits.org/resources/starting-a-california-nonprofit
-    1. ~~Determine the name of the corporation~~
+    
+    1. Determine the name of the corporation
     1. Draft and file the articles of incorporation
     1. Appoint the board of directors
     1. Draft the bylaws and conflict of interest policy
