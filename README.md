@@ -1,4 +1,4 @@
-# SaveOneHuman
+# Save One Human
 
 Website for www.SaveOneHuman.org
 
