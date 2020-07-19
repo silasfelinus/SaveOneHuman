@@ -15,7 +15,7 @@ Save One Human is a web campaign with a simply premise: to efficiently raise eno
 
 Most people drastically underestimate how much money it takes to save one human. (https://80000hours.org/2017/05/most-people-report-believing-its-incredibly-cheap-to-save-lives-in-the-developing-world/). Save One Human attempts to cut through the red tape and enable one specific action to help one stranger on this earth.
 
-**Problem Domain** Non-profit charities and the receipt or transfer of money. As SOH has principles of "EASY" and "EFFICIENT", the initial design will link to a third-party donation site. The eventual goal will be to accept donations on the site itself.
+**Problem Domain** Non-profit charities and the receipt and transfer of money. To simplify: the initial design will link to a third-party donation site; the eventual goal will be to accept donations on the site itself.
 
 
 
