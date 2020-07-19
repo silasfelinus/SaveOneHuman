@@ -49,7 +49,7 @@ Most people drastically underestimate how much money it takes to save one human.
     * Create email @SaveOneHuman
 
 ## NON-PROFIT REGISTRATION STEPS
-    From https://calnonprofits.org/resources/starting-a-california-nonprofit
+    _(From https://calnonprofits.org/resources/starting-a-california-nonprofit)_
     1. ~~Determine the name of the corporation~~
     1. Draft and file the articles of incorporation
     1. Appoint the board of directors
