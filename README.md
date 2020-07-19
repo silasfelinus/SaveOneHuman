@@ -42,11 +42,23 @@ Most people drastically underestimate how much money it takes to save one human.
 ## NON-GIT (EXTERIOR) PROJECTS
 * Setup Twitter Account
 * Setup Facebook Page
-* Register as Non-Profit
 * Logo and Branding
 * Research SEO Optimization
 * Create Business Phone through Google Voice
 * Create email @SaveOneHuman
+
+## NON-PROFIT REGISTRATION STEPS
+****** From https://calnonprofits.org/resources/starting-a-california-nonprofit ******
+1. ~~Determine the name of the corporation~~
+1. Draft and file the articles of incorporation
+1. Appoint the board of directors
+1. Draft the bylaws and conflict of interest policy
+1. Take the initial board actions
+1. Obtain an employer identification number (EIN)
+1. File the initial registration form with the California Attorney General’s Registry of Charitable Trusts
+1. File the Statement of Information with the California Secretary of State
+1. Apply for federal tax exemption with the Internal Revenue Service (IRS)
+1. Apply for California tax exemption with the California Franchise Tax Board (FTB)
 
 
 
