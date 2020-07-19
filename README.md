@@ -62,18 +62,18 @@ Most people drastically underestimate how much money it takes to save one human.
 
 
 
-##### **Version Notes** 
-###### 1.0.0 7/18/2020
+##### _**Version Notes**_ 
+    ###### 1.0.0 7/18/2020
 
-**GitHub Progress** 
-* Created file structure and blank files
-* Created this README.md
-* added .gitignore and .eslintrc.json from Code Fellows 201 https://github.com/codefellows/seattle-201d65
+    **GitHub Progress** 
+    * Created file structure and blank files
+    * Created this README.md
+    * added .gitignore and .eslintrc.json from Code Fellows 201 https://github.com/codefellows/seattle-201d65
 
-**Exterior Progress** 
-* Registered SaveOneHuman.org on GoDaddy. ($10.17 for first year)
-* Created "Launching Soon" Page on GoDaddy (free month trial)
-* Created SaveOneHuman@gmail.com
-* Registered "Save One Human" as a google business
-* Began process towards non-profit registration through https://www.northwestregisteredagent.com
+    **Exterior Progress** 
+    * Registered SaveOneHuman.org on GoDaddy. ($10.17 for first year)
+    * Created "Launching Soon" Page on GoDaddy (free month trial)
+    * Created SaveOneHuman@gmail.com
+    * Registered "Save One Human" as a google business
+    * Began process towards non-profit registration through https://www.northwestregisteredagent.com
 
