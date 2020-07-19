@@ -15,50 +15,51 @@ Save One Human is a web campaign with a simply premise: to efficiently raise eno
 
 Most people drastically underestimate how much money it takes to save one human. (https://80000hours.org/2017/05/most-people-report-believing-its-incredibly-cheap-to-save-lives-in-the-developing-world/). Save One Human attempts to cut through the red tape and enable one specific action to help one stranger on this earth.
 
-**Problem Domain** Non-profit charities and the receipt and transfer of money. The initial (simpler) design will link to a third-party donation site; the eventual goal will be to accept donations on the site itself.
+**Problem Domain:** 
+    Non-profit charities and the receipt and transfer of money. The initial (simpler) design will link to a third-party donation site; the eventual goal will be to accept  donations on the site itself.
 
 
 
 ## PAGE PROJECTS
-* Home Page (index.html)
-* About Page (about.html)
-* Receive Donations (donate.html)
-* Ethics/Values (values.html)
-* Links (links.html)
-* Contact (contact.html)
-* Stretch Goals (stretch.html)
-* List of donors (thanks.html)
+    * Home Page (index.html)
+    * About Page (about.html)
+    * Receive Donations (donate.html)
+    * Ethics/Values (values.html)
+    * Links (links.html)
+    * Contact (contact.html)
+    * Stretch Goals (stretch.html)
+    * List of donors (thanks.html)
 
 
 ## FUNCTION PROJECTS
-* Receive donations (donate.js)
-* Submit email
-* Submit Facebook info
-* Login
-* User shares page with friends
-* Accept Cryptocurrency
-* Scrolling list of donations/donators
+    * Receive donations (donate.js)
+    * Submit email
+    * Submit Facebook info
+    * Login
+    * User shares page with friends
+    * Accept Cryptocurrency
+    * Scrolling list of donations/donators
 
 ## NON-GIT (EXTERIOR) PROJECTS
-* Setup Twitter Account
-* Setup Facebook Page
-* Logo and Branding
-* Research SEO Optimization
-* Create Business Phone through Google Voice
-* Create email @SaveOneHuman
+    * Setup Twitter Account
+    * Setup Facebook Page
+    * Logo and Branding
+    * Research SEO Optimization
+    * Create Business Phone through Google Voice
+    * Create email @SaveOneHuman
 
 ## NON-PROFIT REGISTRATION STEPS
-****** From https://calnonprofits.org/resources/starting-a-california-nonprofit ******
-1. ~~Determine the name of the corporation~~
-1. Draft and file the articles of incorporation
-1. Appoint the board of directors
-1. Draft the bylaws and conflict of interest policy
-1. Take the initial board actions
-1. Obtain an employer identification number (EIN)
-1. File the initial registration form with the California Attorney General’s Registry of Charitable Trusts
-1. File the Statement of Information with the California Secretary of State
-1. Apply for federal tax exemption with the Internal Revenue Service (IRS)
-1. Apply for California tax exemption with the California Franchise Tax Board (FTB)
+From https://calnonprofits.org/resources/starting-a-california-nonprofit
+    1. ~~Determine the name of the corporation~~
+    1. Draft and file the articles of incorporation
+    1. Appoint the board of directors
+    1. Draft the bylaws and conflict of interest policy
+    1. Take the initial board actions
+    1. Obtain an employer identification number (EIN)
+    1. File the initial registration form with the California Attorney General’s Registry of Charitable Trusts
+    1. File the Statement of Information with the California Secretary of State
+    1. Apply for federal tax exemption with the Internal Revenue Service (IRS)
+    1. Apply for California tax exemption with the California Franchise Tax Board (FTB)
 
 
 
