@@ -52,7 +52,7 @@ Most people drastically underestimate how much money it takes to save one human.
    from https://calnonprofits.org/resources/starting-a-california-nonprofit
 
    1. ~~Determine the name of the corporation~~
-   1. Draft and file the articles of incorporation
+   1. ~~Draft and file the articles of incorporation~~
    1. Appoint the board of directors
    1. Draft the bylaws and conflict of interest policy
    1. Take the initial board actions
@@ -73,9 +73,10 @@ Most people drastically underestimate how much money it takes to save one human.
     * added .gitignore and .eslintrc.json from Code Fellows 201 https://github.com/codefellows/seattle-201d65
 
     **Exterior Progress** 
-    * Registered SaveOneHuman.org on GoDaddy. ($10.17 for first year)
+    * Registered SaveOneHuman.org on GoDaddy. (paid $10.17 for first year)
     * Created "Launching Soon" Page on GoDaddy (free month trial)
     * Created SaveOneHuman@gmail.com
     * Registered "Save One Human" as a google business
     * Began process towards non-profit registration through https://www.northwestregisteredagent.com
+    * Filed articles of incorporation from https://bpd.cdn.sos.ca.gov/corp/pdf/articles/arts-pb.pdf (paid $30 filing fee)
 
