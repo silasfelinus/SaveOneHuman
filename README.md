@@ -45,8 +45,8 @@ Most people drastically underestimate how much money it takes to save one human.
 * Register as Non-Profit
 * Logo and Branding
 * Research SEO Optimization
-* Business phone
-* Business email
+* Create Business Phone through Google Voice
+* Create email @SaveOneHuman
 
 
 
