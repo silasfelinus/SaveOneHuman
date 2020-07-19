@@ -45,12 +45,23 @@ Most people drastically underestimate how much money it takes to save one human.
 * Register as Non-Profit
 * Logo and Branding
 * Research SEO Optimization
+* Business phone
+* Business email
 
 
 
 ##### **Version Notes** 
 ###### 1.0.0 7/18/2020
 
-**Basic Infrastructure Progress** file folders, README, .gitignore, .eslintrc.json
+**GitHub Progress** 
+* Created file structure and blank files
+* Created this README.md
+* added .gitignore and .eslintrc.json from Code Fellows 201 https://github.com/codefellows/seattle-201d65
 
-**Exterior Progress** Registered SaveOneHuman.org on GoDaddy. ($10.17 for first year)
+**Exterior Progress** 
+* Registered SaveOneHuman.org on GoDaddy. ($10.17 for first year)
+* Created "Launching Soon" Page on GoDaddy (free month trial)
+* Created SaveOneHuman@gmail.com
+* Registered "Save One Human" as a google business
+* Began process towards non-profit registration through https://www.northwestregisteredagent.com
+
