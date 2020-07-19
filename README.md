@@ -63,7 +63,7 @@ Most people drastically underestimate how much money it takes to save one human.
 
 
 ##### _**Version Notes**_
-    1.0.0 7/18/2020
+    0.0.1 7/18/2020
 
     **GitHub Progress** 
     * Created file structure and blank files
