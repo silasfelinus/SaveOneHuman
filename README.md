@@ -81,3 +81,6 @@ Most people drastically underestimate how much money it takes to save one human.
     * Filed articles of incorporation from https://bpd.cdn.sos.ca.gov/corp/pdf/articles/arts-pb.pdf (paid $30 filing fee)
     * Obtained EIN
 
+
+Attributions:
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
