@@ -1,6 +1,6 @@
 # Save One Human
 
-Website for www.SaveOneHuman.org
+Website for www.saveonehuman.org
 
 Created by Silas Knight
 silasfelinus@gmail.com
