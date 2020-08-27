@@ -56,7 +56,7 @@ Most people drastically underestimate how much money it takes to save one human.
    1. Appoint the board of directors
    1. Draft the bylaws and conflict of interest policy
    1. Take the initial board actions
-   1. Obtain an employer identification number (EIN)
+   1. ~~Obtain an employer identification number (EIN)~~
    1. File the initial registration form with the California Attorney General’s Registry of Charitable Trusts
    1. File the Statement of Information with the California Secretary of State 
    1. Apply for federal tax exemption with the Internal Revenue Service (IRS)
@@ -79,4 +79,5 @@ Most people drastically underestimate how much money it takes to save one human.
     * Registered "Save One Human" as a google business
     * Began process towards non-profit registration through https://www.northwestregisteredagent.com
     * Filed articles of incorporation from https://bpd.cdn.sos.ca.gov/corp/pdf/articles/arts-pb.pdf (paid $30 filing fee)
+    * Obtained EIN
 
